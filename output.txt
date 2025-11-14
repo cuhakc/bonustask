@@ -1,0 +1,17 @@
+Test Case 1:
+Text:    abacababc
+Pattern: ab
+Match Indices: [0, 4, 6]
+
+Test Case 2:
+Text:    the quick brown fox jumps over the lazy dog
+Pattern: the
+Match Indices: [0, 31]
+
+Test Case 3:
+Text:    abaababaabaababaababaabaababaaabaababa
+Pattern: aab
+Match Indices: [2, 7, 10, 15, 20, 23, 29, 32]
+
+
+Process finished with exit code 0
